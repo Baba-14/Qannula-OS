@@ -1,4 +1,4 @@
-# LabNett
+# Qannula
 
 LabNett is a configurable laboratory information system for laboratory networks, hospital laboratories, standalone diagnostic centres and screening programmes.
 
